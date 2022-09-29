@@ -1,0 +1,45 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_C37844C5_8215_E379_41CB_4272994D947D.source = https://api.whatsapp.com/send?phone=5522992199188
+LinkBehaviour_C3437522_83FA_2D3B_41C2_F299D800566F.source = https://api.whatsapp.com/send?phone=5522992199188
+LinkBehaviour_C04DC074_83FB_E31E_41C5_37335FDC6B73.source = https://www.facebook.com/groups/754858287939146
+LinkBehaviour_C378C4C5_8215_E379_41DD_D92E2CA4E09E.source = https://www.facebook.com/groups/754858287939146
+LinkBehaviour_C37884C5_8215_E379_41B8_2926F03E0DA7.source = https://www.google.com.br/maps/place/RF+Fitness+Academia/@-21.777893,-41.2921819,17z/data=!4m14!1m8!3m7!1s0xbdd5bbb8fedbc7:0x7a652a2abf17cef0!2sGama+Odontologia!8m2!3d-21.7782622!4d-41.2901267!14m1!1BCgIgARICCAI!3m4!1s0xbdd5aaac190539:0xa82af33b0d4c3eee!8m2!3d-21.7779241!4d-41.2899662?hl=pt-BR
+LinkBehaviour_C1143C7C_83FE_630F_41D6_E3BDFDFED04B.source = https://www.google.com.br/maps/place/RF+Fitness+Academia/@-21.777893,-41.2921819,17z/data=!4m14!1m8!3m7!1s0xbdd5bbb8fedbc7:0x7a652a2abf17cef0!2sGama+Odontologia!8m2!3d-21.7782622!4d-41.2901267!14m1!1BCgIgARICCAI!3m4!1s0xbdd5aaac190539:0xa82af33b0d4c3eee!8m2!3d-21.7779241!4d-41.2899662?hl=pt-BR
+LinkBehaviour_C3ED5930_83FE_2517_41D1_C303D562C91E.source = https://www.instagram.com/alvarolinsjunior/
+LinkBehaviour_C378A4C5_8215_E379_41D4_7BF7C87E1079.source = https://www.instagram.com/alvarolinsjunior/
+
+## Media
+
+### Audio
+audiores_C024019A_820A_250A_41DD_363CA424B01B.mp3Url = media/audio_C45BEBA5_820E_253E_41D1_F8B5424B9B38_pt.mp3
+
+### Title
+panorama_C18526F6_820E_2F1B_41A9_D3D5B41E259B.label = ACADEMIA FITNESS
+video_C3BBABF9_820E_2509_41D4_EA7F41A02D91.label = Vídeo Comercial Para Academia  Fitness  Musculação  Exercícios_360p
+
+### Video
+videolevel_9BAA3737_8E54_E941_41D6_FDC27E86EE23.posterURL = media/video_C3BBABF9_820E_2509_41D4_EA7F41A02D91_poster_pt.jpg
+videolevel_9BAA3737_8E54_E941_41D6_FDC27E86EE23.url = media/video_C3BBABF9_820E_2509_41D4_EA7F41A02D91_pt.mp4
+
+## Skin
+
+### Button
+Button_C0838489_820B_E309_41DE_D4DE5692C09F.label = Facebook
+Button_C0838489_820B_E309_41DE_D4DE5692C09F_mobile.label = Facebook
+Button_C486B5BD_820A_2D09_41D8_AB901A3BCE89_mobile.label = Instagram
+Button_C486B5BD_820A_2D09_41D8_AB901A3BCE89.label = Instagram
+Button_C0C52122_820B_E53A_41D3_8E4E9216BA64.label = Localização
+Button_C0C52122_820B_E53A_41D3_8E4E9216BA64_mobile.label = Localização
+Button_C078A712_820B_ED1B_41DC_2BD0BCBA2ED9.label = Whatsapp
+Button_C078A712_820B_ED1B_41DC_2BD0BCBA2ED9_mobile.label = Whatsapp
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Projeto Academia Fitness
